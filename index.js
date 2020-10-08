@@ -10,7 +10,9 @@ app.use(bodyParser.json());
 app.use(cors());
 
 const port = 5000
-
+app.get('/',(req,res)=>{
+  res.send("Database Working")
+})
 
 
 const MongoClient = require('mongodb').MongoClient;
