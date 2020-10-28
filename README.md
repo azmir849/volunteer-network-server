@@ -24,3 +24,5 @@
          6.Dotenv
          7.Bootstrap
          8.Material UI
+
+[Check Resume](https://drive.google.com/file/d/1_0eZO_h3JKPcZaPsW4e_C0K3I8QEN6QU/view?usp=sharing)
